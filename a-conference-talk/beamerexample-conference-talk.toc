@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Model and the Problem}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{The Integrated Approach}{7}{0}{1}
+\beamer@sectionintoc {2}{Bad News: Hardness Results}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{Hardness of PP-Partitioning of Haplotype Matrices}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{Hardness of PP-Partitioning of Genotype Matrices}{18}{0}{2}
+\beamer@sectionintoc {3}{Good News: Tractability Results}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{Perfect Path Phylogenies}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{Tractability of PPP-Partitioning of Genotype Matrices}{25}{0}{3}
